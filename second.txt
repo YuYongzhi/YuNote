@@ -1,1 +1,8 @@
 second file
+
+GIT使用详细教程-OPEN开发经验库
+http://www.open-open.com/lib/view/open1414478296325.html
+
+
+git使用详细介绍 
+http://blog.csdn.net/gemmem/article/details/7290125
