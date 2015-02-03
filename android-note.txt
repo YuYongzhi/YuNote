@@ -1,0 +1,14 @@
+Build android envi
+1. 安装 gnome-panel
+   sudo apt-get install gnome-panel
+
+2. 安装 openjdk-7
+   sudo apt-get install gnome-panel
+
+3. 64位系统执行adb问题
+   sudo apt-get install ia32-libs
+
+4. 
+
+
+
