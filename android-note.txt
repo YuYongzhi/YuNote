@@ -21,4 +21,15 @@ Build android envi
 
 
 
+6. Android环境
+   sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl 
+   sudo apt-get install zlib1g-dev gcc-multilib g++-multilib
+   sudo apt-get install x11proto-core-dev libx11-dev libncurses-dev sharutils
+   AMD64中：sudo apt-get install libc6-dev-i386 lib32ncurses5-dev ia32-libs lib32readline-gplv2-dev lib32z1-dev
+
+   sudo apt-get install xsltproc
+   sudo apt-get install libc6-dev:i386
+   sudo apt-get  install libxml2-utils
+   sudo apt-get  install lzma
+
 
